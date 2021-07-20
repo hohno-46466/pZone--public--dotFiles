@@ -4,3 +4,4 @@ escape ^Tt
 defscrollback 1000
 # autodetach on
 # markkeys h=^b:l=^f:$=^e:^d=^v:^D=^V
+term xerm
