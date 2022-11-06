@@ -8,7 +8,7 @@
      ├──  dot.inputrc
      └──  dot.screenrc
      
-     0 directories, 6 files (Sat Nov  5 18:17:04 JST 2022)
+     0 directories, 6 files (Sun Nov  6 15:52:17 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/pZone--public--dotFiles
