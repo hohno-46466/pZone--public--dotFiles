@@ -1,6 +1,6 @@
 # GitHub/pZone--public--dotFiles
 
-    ./pZone--public--dotFiles
+     ./pZone--public--dotFiles
      ├──  README.md
      ├──  README.md.old
      ├──  dot.bashrc_aliases
@@ -8,7 +8,7 @@
      ├──  dot.inputrc
      └──  dot.screenrc
      
-     0 directories, 6 files (Sun Nov 20 00:10:25 JST 2022)
+     0 directories, 6 files (Wed Dec 21 18:50:15 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/pZone--public--dotFiles
